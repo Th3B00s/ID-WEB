@@ -92,6 +92,7 @@ let products = [
 // J
 // K
   { id: 20, category: "Kit de arrastre", title: "Kit de arrastre FT150", image: "assets/kit de arrastre.png", qty: 3, addDisabled: false },
+
 // L
 { id: "Lubri-1", category: "Lubricador", title: "Lubrichain", image: "assets/Lubrichain.png", qty: 10, addDisabled: false },
   
